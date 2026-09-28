@@ -160,14 +160,6 @@ Currently studying:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eric-guerrero-it&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Eric Guerrero GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-guerrero-it&layout=compact&hide_border=true&langs_count=6" alt="Most Used Languages"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=eric-guerrero-it&hide_border=true" alt="GitHub Streak"/>
 
 </div>
