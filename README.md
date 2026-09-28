@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<!-- Add custom banner here when available -->
+<!-- Custom banner -->
 <!-- <img src="./assets/banner.png" width="100%" alt="Eric Guerrero — Systems, Data & AI"/> -->
 
 # Hi, I'm Eric Guerrero 👋
@@ -21,7 +21,7 @@
 
 I'm a Higher Technician in **Networked Computer Systems Administration**, currently specialising in **Artificial Intelligence and Big Data**.
 
-My main interests are **data, machine learning and data-driven technologies**, while building on my background in systems, networking and IT infrastructure.
+My main interests are **data, machine learning and data technologies**, while building on my background in systems, networking and IT infrastructure.
 
 ---
 
@@ -68,7 +68,7 @@ Designed and implemented the IT infrastructure for a simulated small company, co
 - Active Directory, DNS and DHCP
 - Firewall configuration with pfSense
 - RAID and backup strategy
-- Web and infrastructure services
+- Web, file and infrastructure services
 
 **Tech:**  
 `Windows Server` · `Ubuntu` · `Active Directory` · `DNS` · `DHCP` · `pfSense` · `RAID` · `Apache`
@@ -103,10 +103,9 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 **Malta · 2026**
 
 - Supported the IT and network administrator across multiple hospitality properties
-- Assisted mainly with **POS systems and printers**
-- Helped with day-to-day IT and infrastructure tasks
-- Gained practical exposure to **Active Directory, hardware, databases and network infrastructure**
-- Supported IT operations across different company locations
+- Assisted mainly with **POS systems, printers and day-to-day IT support**
+- Helped with general infrastructure and hardware-related tasks
+- Gained practical exposure to **Active Directory, databases and network infrastructure**
 
 ### 🇪🇸 Zetta Electrónica — Microcomputer Technician
 **Blanes, Spain · Oct 2023 – Mar 2024**
@@ -114,7 +113,7 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 - Installed and configured Windows and Linux systems
 - Troubleshot hardware issues and performed maintenance and backups
 - Configured local networks and physical/virtual machine connectivity
-- Worked with domains in Windows and Ubuntu environments
+- Created and joined machines to domains in Windows and Ubuntu environments
 - Managed network file transfers using FileZilla
 - Worked with WordPress, PrestaShop and SSL certificates
 
@@ -126,7 +125,7 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 **INS Sa Palomera · Blanes, Spain · 2026–Present**  
 *Expected completion: 2027*
 
-`Artificial Intelligence` · `Machine Learning` · `AI Programming` · `Big Data Systems` · `Applied Big Data`
+`AI Models` · `Machine Learning Systems` · `AI Programming` · `Big Data Systems` · `Applied Big Data`
 
 ### Higher Technician in Networked Computer Systems Administration — ASIR
 **INS Sa Palomera · Blanes, Spain · 2024–2026**
@@ -142,8 +141,8 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 
 ## 🏅 Certifications
 
-- Microsoft Office Specialist — **Word 2019 Associate**
-- Microsoft Office Specialist — **Excel 2019 Associate**
+- Microsoft Office Specialist — **Word 2019 Associate** · 2023
+- Microsoft Office Specialist — **Excel 2019 Associate** · 2023
 
 ---
 
