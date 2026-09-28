@@ -1,10 +1,10 @@
 <!-- =========================
-     ERIC GUERRERO — PROFILE
+     ERIC GUERRERO — GITHUB PROFILE
 ========================= -->
 
 <div align="center">
 
-<!-- Custom banner -->
+<!-- Add custom banner here when available -->
 <!-- <img src="./assets/banner.png" width="100%" alt="Eric Guerrero — Systems, Data & AI"/> -->
 
 # Hi, I'm Eric Guerrero 👋
@@ -19,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT professional with a background in **Systems and Network Administration**, currently specialising in **Artificial Intelligence and Big Data**.
+I'm a Higher Technician in **Networked Computer Systems Administration**, currently specialising in **Artificial Intelligence and Big Data**.
 
-My main interests are **data, machine learning and data-driven technologies**, while building on my experience in systems, networking and IT infrastructure.
+My main interests are **data, machine learning and data-driven technologies**, while building on my background in systems, networking and IT infrastructure.
 
 ---
 
@@ -31,13 +31,13 @@ My main interests are **data, machine learning and data-driven technologies**, w
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Hard Skills
 
-### 🖥️ Systems
+### 🖥️ Systems & Infrastructure
 `Linux` · `Windows Server` · `Active Directory` · `Bash`
 
 ### 🌐 Networking
-`TCP/IP` · `DNS` · `DHCP` · `Subnetting`
+`TCP/IP` · `DNS` · `DHCP` · `Subnetting` · `pfSense`
 
 ### 📦 Virtualization & Containers
 `VirtualBox` · `Docker`
@@ -45,11 +45,14 @@ My main interests are **data, machine learning and data-driven technologies**, w
 ### 🗄️ Programming & Data
 `Python` · `SQL` · `PostgreSQL` · `Power BI`
 
-### 🔐 Infrastructure & Security
-`pfSense` · `Firewalls` · `Backup & Recovery`
+### 🔐 Security & Administration
+`Firewalls` · `Backup & Recovery` · `SSL/TLS`
 
 ### 💻 Other Technologies
 `HTML` · `CSS` · `JavaScript` · `PHP` · `C#`
+
+### 🔧 Tools
+`Git` · `GitHub`
 
 ---
 
@@ -57,7 +60,7 @@ My main interests are **data, machine learning and data-driven technologies**, w
 
 ### 🖥️ PCPitStop — IT Infrastructure
 
-Designed and implemented the IT infrastructure for a simulated small company, covering **network architecture, server administration, security and business services**.
+Designed and implemented the IT infrastructure for a simulated small company, covering **network architecture, server administration, security and core business services**.
 
 **Highlights**
 - LAN and DMZ network design
@@ -70,7 +73,7 @@ Designed and implemented the IT infrastructure for a simulated small company, co
 **Tech:**  
 `Windows Server` · `Ubuntu` · `Active Directory` · `DNS` · `DHCP` · `pfSense` · `RAID` · `Apache`
 
-> Repository migration to GitHub in progress.
+> Documentation is currently being migrated to GitHub.
 
 ---
 
@@ -81,7 +84,8 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 **Highlights**
 - PostgreSQL database design
 - Python application logic
-- Booking and billing management
+- Customer and booking management
+- Billing and check-in/check-out
 - XML data export
 - Power BI dashboards
 - SSL, backups and database replication
@@ -89,7 +93,7 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 **Tech:**  
 `Python` · `PostgreSQL` · `SQL` · `Power BI` · `XML` · `SSL`
 
-> Repository migration to GitHub in progress.
+> Documentation is currently being migrated to GitHub.
 
 ---
 
@@ -98,7 +102,7 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 ### 🇲🇹 Xara Collection — IT Assistant
 **Malta · 2026**
 
-- Supported the company's IT and network administrator across multiple hospitality properties
+- Supported the IT and network administrator across multiple hospitality properties
 - Assisted mainly with **POS systems and printers**
 - Helped with day-to-day IT and infrastructure tasks
 - Gained practical exposure to **Active Directory, hardware, databases and network infrastructure**
@@ -111,8 +115,8 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 - Troubleshot hardware issues and performed maintenance and backups
 - Configured local networks and physical/virtual machine connectivity
 - Worked with domains in Windows and Ubuntu environments
-- Used FileZilla for network file transfers
-- Deployed and maintained websites using WordPress, PrestaShop and SSL certificates
+- Managed network file transfers using FileZilla
+- Worked with WordPress, PrestaShop and SSL certificates
 
 ---
 
@@ -131,16 +135,18 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 
 ---
 
-## 🏅 Certifications & Languages
+## 🏅 Certifications
 
-### Certifications
 - Microsoft Office Specialist — **Word 2019 Associate**
 - Microsoft Office Specialist — **Excel 2019 Associate**
 
-### Languages
-- 🇪🇸 Spanish — Native
+---
+
+## 🌍 Languages
+
+- Spanish — Native
 - Catalan — Native
-- 🇬🇧 English — B1
+- English — B1
 
 ---
 
@@ -150,7 +156,7 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 
 <img src="https://streak-stats.demolab.com?user=eric-guerrero-it&hide_border=true" alt="Eric Guerrero GitHub Streak"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=eric-guerrero-it&style=flat-square" alt="Profile views"/>
 
