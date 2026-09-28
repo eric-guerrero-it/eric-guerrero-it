@@ -122,16 +122,21 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 
 ## 🎓 Education
 
-### Artificial Intelligence & Big Data Specialization
-**INS Sa Palomera · Blanes, Spain · 2026–2027**
+### Specialization Course in Artificial Intelligence & Big Data
+**INS Sa Palomera · Blanes, Spain · 2026–Present**  
+*Expected completion: 2027*
 
 `Artificial Intelligence` · `Machine Learning` · `AI Programming` · `Big Data Systems` · `Applied Big Data`
 
 ### Higher Technician in Networked Computer Systems Administration — ASIR
-**INS Sa Palomera · 2024–2026**
+**INS Sa Palomera · Blanes, Spain · 2024–2026**
+
+`Systems Administration` · `Networking` · `Virtualization` · `Databases` · `Security`
 
 ### Technician in Microcomputer Systems and Networks — SMR
-**INS Sa Palomera · 2022–2024**
+**INS Sa Palomera · Blanes, Spain · 2022–2024**
+
+`Hardware` · `Operating Systems` · `Local Networks` · `IT Support`
 
 ---
 
