@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<!-- Replace this with your custom banner when ready -->
-<!-- <img src="./assets/banner.png" width="100%" alt="Eric Guerrero Banner"/> -->
+<!-- Custom banner -->
+<!-- <img src="./assets/banner.png" width="100%" alt="Eric Guerrero — Systems, Data & AI"/> -->
 
 # Hi, I'm Eric Guerrero 👋
 
-### Systems & Network Administrator | AI & Big Data Specialization Student
+### Systems & Network Administration | AI & Big Data Specialization
 
 📍 Blanes, Girona, Spain
 
@@ -21,51 +21,35 @@
 
 I'm an IT professional with a background in **Systems and Network Administration**, currently specialising in **Artificial Intelligence and Big Data**.
 
-I'm particularly interested in **data, machine learning and data-driven technologies**, while continuing to build on my experience in systems, networking and IT infrastructure.
+My main interests are **data, machine learning and data-driven technologies**, while building on my experience in systems, networking and IT infrastructure.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🐍 Python
-- 🗄️ SQL & Data Management
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- ⚡ Big Data
+`Python` · `SQL & Data Management` · `Data Analysis` · `Machine Learning` · `Big Data`
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Systems & Networking
+### 🖥️ Systems
+`Linux` · `Windows Server` · `Active Directory` · `Bash`
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Windows"/>
-</p>
+### 🌐 Networking
+`TCP/IP` · `DNS` · `DHCP` · `Subnetting`
 
-`Windows Server` · `Active Directory` · `TCP/IP` · `DNS` · `DHCP`
+### 📦 Virtualization & Containers
+`VirtualBox` · `Docker`
 
-### Virtualization & Containers
+### 🗄️ Programming & Data
+`Python` · `SQL` · `PostgreSQL` · `Power BI`
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/virtualbox" height="40" alt="VirtualBox"/>
-</p>
+### 🔐 Infrastructure & Security
+`pfSense` · `Firewalls` · `Backup & Recovery`
 
-`Docker` · `VirtualBox`
-
-### Programming & Data
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-</p>
-
-`Python` · `PostgreSQL` · `Power BI`
+### 💻 Other Technologies
+`HTML` · `CSS` · `JavaScript` · `PHP` · `C#`
 
 ---
 
@@ -73,31 +57,39 @@ I'm particularly interested in **data, machine learning and data-driven technolo
 
 ### 🖥️ PCPitStop — IT Infrastructure
 
-Designed and implemented the IT infrastructure for a simulated small company, covering networking, server administration, security and core business services.
+Designed and implemented the IT infrastructure for a simulated small company, covering **network architecture, server administration, security and business services**.
 
-**Tech:** `Windows Server` · `Ubuntu` · `Active Directory` · `DNS` · `DHCP` · `pfSense` · `RAID` · `Apache`
+**Highlights**
+- LAN and DMZ network design
+- Windows Server and Ubuntu administration
+- Active Directory, DNS and DHCP
+- Firewall configuration with pfSense
+- RAID and backup strategy
+- Web and infrastructure services
 
-> Repository coming soon.
+**Tech:**  
+`Windows Server` · `Ubuntu` · `Active Directory` · `DNS` · `DHCP` · `pfSense` · `RAID` · `Apache`
+
+> Repository migration to GitHub in progress.
 
 ---
 
 ### 🏨 Hotel Management Application
 
-Hotel management system developed with **Python and PostgreSQL**, including database management, bookings, billing, data visualization and security features.
+Hotel management system developed with **Python and PostgreSQL** for managing customers, staff, bookings, check-in/check-out and billing.
 
-**Tech:** `Python` · `PostgreSQL` · `SQL` · `Power BI` · `XML` · `SSL`
+**Highlights**
+- PostgreSQL database design
+- Python application logic
+- Booking and billing management
+- XML data export
+- Power BI dashboards
+- SSL, backups and database replication
 
-> Repository coming soon.
+**Tech:**  
+`Python` · `PostgreSQL` · `SQL` · `Power BI` · `XML` · `SSL`
 
----
-
-### 🌐 Digital IT Portfolio
-
-Personal portfolio documenting academic and technical work related to systems administration, networking, virtualization and IT infrastructure.
-
-**Areas:** `Systems` · `Networking` · `Virtualization` · `Security`
-
-> Repository coming soon.
+> Repository migration to GitHub in progress.
 
 ---
 
@@ -129,8 +121,6 @@ Personal portfolio documenting academic and technical work related to systems ad
 ### Artificial Intelligence & Big Data Specialization
 **INS Sa Palomera · Blanes, Spain · 2026–2027**
 
-Currently studying:
-
 `Artificial Intelligence` · `Machine Learning` · `AI Programming` · `Big Data Systems` · `Applied Big Data`
 
 ### Higher Technician in Networked Computer Systems Administration — ASIR
@@ -144,23 +134,25 @@ Currently studying:
 ## 🏅 Certifications & Languages
 
 ### Certifications
-
 - Microsoft Office Specialist — **Word 2019 Associate**
 - Microsoft Office Specialist — **Excel 2019 Associate**
 
 ### Languages
-
 - 🇪🇸 Spanish — Native
 - Catalan — Native
 - 🇬🇧 English — B1
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=eric-guerrero-it&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=eric-guerrero-it&hide_border=true" alt="Eric Guerrero GitHub Streak"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=eric-guerrero-it&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -177,13 +169,5 @@ Currently studying:
 <a href="https://github.com/eric-guerrero-it">
   <img src="https://img.shields.io/badge/GitHub-eric--guerrero--it-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=eric-guerrero-it&style=flat-square" alt="Profile views"/>
 
 </div>
