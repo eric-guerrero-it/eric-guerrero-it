@@ -47,12 +47,12 @@ I'm particularly interested in **data, machine learning and data-driven technolo
 
 `Windows Server` · `Active Directory` · `TCP/IP` · `DNS` · `DHCP`
 
-### Virtualization & Containers
+<h3>Virtualization & Containers</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" height="40" alt="VirtualBox"/>
+  <img src="https://cdn.simpleicons.org/virtualbox" height="40" alt="VirtualBox"/>
 </p>
 
 ### Programming & Data
