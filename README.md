@@ -58,34 +58,32 @@ My main interests are **data, machine learning and data technologies**, while bu
 
 ## 🚀 Featured Projects
 
-### 🖥️ PCPitStop — IT Infrastructure
+### 🖥️ [PCPitStop — IT Infrastructure](https://github.com/eric-guerrero-it/pcpitstop-it-infrastructure)
 
-Designed and implemented the IT infrastructure for a simulated small company, covering **network architecture, server administration, security and core business services**.
+Final SMR project focused on the design and planning of a complete IT infrastructure for a simulated company.
 
 **Highlights**
 - LAN and DMZ network design
-- Windows Server and Ubuntu administration
+- Windows Server and Ubuntu
 - Active Directory, DNS and DHCP
-- Firewall configuration with pfSense
+- pfSense firewall
 - RAID and backup strategy
 - Web, file and infrastructure services
 
 **Tech:**  
 `Windows Server` · `Ubuntu` · `Active Directory` · `DNS` · `DHCP` · `pfSense` · `RAID` · `Apache`
 
-> Documentation is currently being migrated to GitHub.
-
 ---
 
-### 🏨 Hotel Management Application
+### 🏨 [Gestió Hotelera — Hotel Management System](https://github.com/eric-guerrero-it/GestioHoteleraAEI)
 
-Hotel management system developed with **Python and PostgreSQL** for managing customers, staff, bookings, check-in/check-out and billing.
+Collaborative ASIR project developed with **Python and PostgreSQL** for hotel management.
 
 **Highlights**
 - PostgreSQL database design
 - Python application logic
-- Customer and booking management
-- Billing and check-in/check-out
+- Customer, staff and booking management
+- Check-in/check-out and billing
 - XML data export
 - Power BI dashboards
 - SSL, backups and database replication
@@ -93,7 +91,7 @@ Hotel management system developed with **Python and PostgreSQL** for managing cu
 **Tech:**  
 `Python` · `PostgreSQL` · `SQL` · `Power BI` · `XML` · `SSL`
 
-> Documentation is currently being migrated to GitHub.
+> Forked collaborative project — I contributed to its development.
 
 ---
 
