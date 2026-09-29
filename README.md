@@ -58,40 +58,53 @@ My main interests are **data, machine learning and data technologies**, while bu
 
 ## 🚀 Featured Projects
 
-### 🖥️ [PCPitStop — IT Infrastructure](https://github.com/eric-guerrero-it/pcpitstop-it-infrastructure)
+### ☁️ [ASIR Final Project](https://github.com/IevgenSoloviov/Projecte-intermodular-administracio-de-sistemes-informatics-en-xarxa)
 
-Final SMR project focused on the design and planning of a complete IT infrastructure for a simulated company.
-
-**Highlights**
-- LAN and DMZ network design
-- Windows Server and Ubuntu
-- Active Directory, DNS and DHCP
-- pfSense firewall
-- RAID and backup strategy
-- Web, file and infrastructure services
+Collaborative final ASIR project focused on modern systems infrastructure, containerization, orchestration, automation and security.
 
 **Tech:**  
-`Windows Server` · `Ubuntu` · `Active Directory` · `DNS` · `DHCP` · `pfSense` · `RAID` · `Apache`
+`Docker` · `Kubernetes` · `Helm` · `Istio` · `Ansible` · `Suricata`
+
+> Collaborative project — I contributed to its development.
 
 ---
 
 ### 🏨 [Gestió Hotelera — Hotel Management System](https://github.com/eric-guerrero-it/GestioHoteleraAEI)
 
-Collaborative ASIR project developed with **Python and PostgreSQL** for hotel management.
+Collaborative hotel management application developed with **Python and PostgreSQL**.
 
 **Highlights**
-- PostgreSQL database design
-- Python application logic
+- Database design
 - Customer, staff and booking management
 - Check-in/check-out and billing
-- XML data export
 - Power BI dashboards
-- SSL, backups and database replication
+- XML export
+- Backups and database replication
 
 **Tech:**  
-`Python` · `PostgreSQL` · `SQL` · `Power BI` · `XML` · `SSL`
+`Python` · `PostgreSQL` · `SQL` · `Power BI` · `XML`
 
 > Forked collaborative project — I contributed to its development.
+
+---
+
+### 🖥️ [PCPitStop — IT Infrastructure](https://github.com/eric-guerrero-it/pcpitstop-it-infrastructure)
+
+Final SMR project focused on designing a complete IT infrastructure for a simulated company.
+
+**Tech:**  
+`Windows Server` · `Ubuntu` · `Active Directory` · `DNS` · `DHCP` · `pfSense` · `RAID`
+
+---
+
+### 🌦️ [PHP Weather Station](https://github.com/eric-guerrero-it/php-weather-station)
+
+Collaborative PHP/MySQL web application for displaying Arduino weather station data and daily/monthly statistics.
+
+**Tech:**  
+`PHP` · `MySQL` · `PDO` · `HTML` · `CSS` · `Arduino`
+
+> Collaborative project.
 
 ---
 
