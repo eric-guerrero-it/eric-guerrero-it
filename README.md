@@ -7,6 +7,12 @@
 <!-- Custom banner -->
 <!-- <img src="./assets/banner.png" width="100%" alt="Eric Guerrero — Systems, Data & AI"/> -->
 
+<div align="center">
+<img src="./assets/banner.png" width="100%" alt="Eric Guerrero — Systems, Data & AI"/>
+</div>
+
+<br>
+
 # Hi, I'm Eric Guerrero 👋
 
 ### Systems & Network Administration | AI & Big Data Specialization
