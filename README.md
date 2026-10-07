@@ -45,16 +45,19 @@ My main interests are **data, machine learning and data technologies**, while bu
 ### 🌐 Networking
 `TCP/IP` · `DNS` · `DHCP` · `Subnetting` · `pfSense`
 
-### 📦 Virtualization & Containers
-`VirtualBox` · `Docker`
+### 📦 Virtualization, Containers & DevOps
+`VirtualBox` · `Docker` · `Kubernetes` · `Ansible`
 
 ### 🗄️ Programming & Data
-`Python` · `SQL` · `PostgreSQL` · `Power BI`
+`Python` · `SQL` · `SQL Server` · `PostgreSQL` · `Power BI`
+
+### 📊 Big Data
+`Hadoop` · `HDFS` · `YARN` · `MapReduce`
 
 ### 🔐 Security & Administration
-`Firewalls` · `Backup & Recovery` · `SSL/TLS`
+`Firewalls` · `Suricata` · `Backup & Recovery` · `SSL/TLS`
 
-### 💻 Other Technologies
+### 💻 Web & Development
 `HTML` · `CSS` · `JavaScript` · `PHP` · `C#`
 
 ### 🔧 Tools
