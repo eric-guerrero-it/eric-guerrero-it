@@ -120,20 +120,20 @@ Collaborative PHP/MySQL web application for displaying Arduino weather station d
 ## 💼 IT Experience
 
 ### 🇲🇹 Xara Collection — IT Assistant
-**Malta · 2026**
+**Erasmus+ Internship · Malta · 2026**
 
 - Supported the IT and network administrator across multiple hospitality properties
-- Assisted mainly with **POS systems, printers and day-to-day IT support**
+- Assisted with **POS systems, printers and day-to-day IT support**
 - Helped with general infrastructure and hardware-related tasks
 - Gained practical exposure to **Active Directory, databases and network infrastructure**
 
 ### 🇪🇸 Zetta Electrónica — Microcomputer Technician
-**Blanes, Spain · Oct 2023 – Mar 2024**
+**Vocational Training Internship · Blanes, Spain · Oct 2023 – Mar 2024**
 
 - Installed and configured Windows and Linux systems
 - Troubleshot hardware issues and performed maintenance and backups
 - Configured local networks and physical/virtual machine connectivity
-- Created and joined machines to domains in Windows and Ubuntu environments
+- Worked with domains in Windows and Ubuntu environments
 - Managed network file transfers using FileZilla
 - Worked with WordPress, PrestaShop and SSL certificates
 
